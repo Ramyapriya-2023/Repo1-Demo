@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm Order</name>
+   <tag></tag>
+   <elementGuidId>b8f0a6f5-96b7-4d56-91a8-073192ad8323</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-pack-back-payment/div/div/div/div/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-warning.warnBut</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89dcfa44-3355-4fba-a227-33ec63fbaeb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning warnBut</value>
+      <webElementGuid>b17d1437-ee1f-4733-af04-2adeaf8ee174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm Order</value>
+      <webElementGuid>7ed3acca-7b5e-4527-a290-40ab558f2b6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-pack-back-payment[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 pickup-part row m0&quot;]/div[@class=&quot;e-learning-body&quot;]/div[@class=&quot;d-flex justify-content-center mt20&quot;]/button[@class=&quot;btn btn-warning warnBut&quot;]</value>
+      <webElementGuid>c8851813-c101-411c-9789-ddc051663b84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-pack-back-payment/div/div/div/div/div[3]/button</value>
+      <webElementGuid>20f0d15a-df90-449e-99f4-df830eff8875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions'])[1]/following::button[1]</value>
+      <webElementGuid>96b77933-7218-4969-97c0-b00a2e95fbd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Predefined Themes'])[1]/preceding::button[1]</value>
+      <webElementGuid>16ff4698-872e-47bf-b9d3-e85fd321a919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm Order']/parent::*</value>
+      <webElementGuid>6f0938cd-b6b5-4e50-9b72-9a7e4b51d83a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>303e99c5-e13a-46f1-aa48-bf394bcc7084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Confirm Order' or . = 'Confirm Order')]</value>
+      <webElementGuid>c97601ed-8c26-4615-a157-b1ded9423e26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

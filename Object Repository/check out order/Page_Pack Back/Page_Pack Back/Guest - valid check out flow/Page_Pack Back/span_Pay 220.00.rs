@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pay 220.00</name>
+   <tag></tag>
+   <elementGuidId>9479d481-2b97-4012-98a6-48fb5401225c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='submitButton']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.iconTick</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>99be4ab0-7ff1-44ec-be0c-4e1a11020a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iconTick</value>
+      <webElementGuid>ae5e934d-39a9-4358-81de-61bef0e52675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay $220.00</value>
+      <webElementGuid>1a36c2c7-6bdf-4a1a-ac55-1100075bcdc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submitButton&quot;)/span[1]/span[@class=&quot;iconTick&quot;]</value>
+      <webElementGuid>1ad54c63-4b37-460e-aafb-5606bcb3f7b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/check out order/Page_Pack Back/Page_Pack Back/Guest - valid check out flow/Page_Pack Back/iframe_concat(id(, , idBody, , )iframeclass_1ebc74</value>
+      <webElementGuid>9d3aa28c-d20a-481c-900e-de17925ca69b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='submitButton']/span/span</value>
+      <webElementGuid>ab77785d-db6a-436f-818a-a069c3f5a610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rq@yopmail.com'])[1]/following::span[2]</value>
+      <webElementGuid>a6c8d7ec-fadc-4b1c-a3d3-dee3205b04ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buying 4 Products'])[1]/following::span[3]</value>
+      <webElementGuid>a24b2d63-30f6-4cce-bf26-762829a4bb7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pay $220.00']/parent::*</value>
+      <webElementGuid>c1a06cab-12a8-4b10-95de-4d44fa124710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>efb6deb3-b2b4-43f6-ae41-3c2ca5305dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pay $220.00' or . = 'Pay $220.00')]</value>
+      <webElementGuid>5e14d301-9d0f-4506-b34b-5195cb8a2a5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

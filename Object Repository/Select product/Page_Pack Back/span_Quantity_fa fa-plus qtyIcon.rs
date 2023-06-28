@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Quantity_fa fa-plus qtyIcon</name>
+   <tag></tag>
+   <elementGuidId>b82eb73a-cdd9-4772-965a-ebd860a0b36a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-productlist/div/div[3]/div/div/div[2]/div/div/div[4]/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d0d65e1d-f243-4f6a-b42b-47b0a0279626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus qtyIcon</value>
+      <webElementGuid>31c82057-260b-44df-aab4-5281b169ee92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-productlist[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 mh900 pickup-part pack-back-part ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-lg-3 col-xl-3 ng-star-inserted&quot;]/div[@class=&quot;productCard&quot;]/div[@class=&quot;card-body prd_details&quot;]/div[@class=&quot;d-inline-flex marginList&quot;]/div[@class=&quot;wrapper_btn&quot;]/button[@class=&quot;plusminus&quot;]/span[@class=&quot;fa fa-plus qtyIcon&quot;]</value>
+      <webElementGuid>ce78b8ee-928f-486e-b18b-dd30476d5b19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-productlist/div/div[3]/div/div/div[2]/div/div/div[4]/div/button[2]/span</value>
+      <webElementGuid>c384426b-fd00-452e-a473-7ac4a74cc49b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/div/button[2]/span</value>
+      <webElementGuid>77717c58-4e77-4622-bf18-bece6456fda2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

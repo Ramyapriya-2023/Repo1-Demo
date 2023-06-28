@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invoice Address</name>
+   <tag></tag>
+   <elementGuidId>dfff3218-59fd-404c-8b6a-a814c08a61f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-packback-profile/div/app-useraddress/div/div/div/div/div/div/form/div[3]/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23a3256a-c9f5-4d4d-9107-2c9a7f721677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-lg-4 col-xl-4 col-md-3 col-sm-12 mb-3</value>
+      <webElementGuid>30cf3990-145c-4fbc-869e-613417e533f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invoice Address:</value>
+      <webElementGuid>9299f7ce-d43c-47cc-8a06-81f4d3431af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-packback-profile[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/app-useraddress[1]/div[@class=&quot;content&quot;]/div[@class=&quot;pickup-part&quot;]/div[@class=&quot;e-learning-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card table_card&quot;]/div[@class=&quot;cartTable&quot;]/form[@class=&quot;ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-12 col-lg-6 col-xl-6&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-xl-4 col-md-3 col-sm-12 mb-3&quot;]</value>
+      <webElementGuid>4af9dd69-9895-4fbc-8909-7e1bba6577a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-packback-profile/div/app-useraddress/div/div/div/div/div/div/form/div[3]/div/div[4]/div</value>
+      <webElementGuid>dfc1a0cc-1027-4143-9252-36ddad876797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attention:'])[1]/following::div[3]</value>
+      <webElementGuid>4ab01366-9000-4d26-9fc6-a58d60059637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Name:'])[1]/following::div[6]</value>
+      <webElementGuid>a3d72232-c710-4175-98b0-878912d6623d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City:'])[1]/preceding::div[8]</value>
+      <webElementGuid>72b913c1-d1a7-4067-85e1-887f50b2eb52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[4]/div</value>
+      <webElementGuid>2e5acafb-0a5e-4833-86a7-bc6bff364ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invoice Address:' or . = 'Invoice Address:')]</value>
+      <webElementGuid>548d64fe-6d1e-446a-a455-1b3d59ffbcc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

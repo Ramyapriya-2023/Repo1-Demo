@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click here to learn more</name>
+   <tag></tag>
+   <elementGuidId>d42deb5f-c0b9-42f9-8745-16b3ed95c138</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='filter']/div[2]/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.learn-more-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df4edb3e-a950-44be-9e22-21bc7e50bd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>learn-more-link</value>
+      <webElementGuid>ceca64ea-8aac-4941-931a-e959e84df0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here to learn more.</value>
+      <webElementGuid>fcbca134-947e-4ac6-8b70-cf57df9f8df4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-packback-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;web-hd&quot;]/div[@class=&quot;header top70&quot;]/div[@id=&quot;filter&quot;]/div[@class=&quot;col-md-5 vcenter pRight30&quot;]/span[@class=&quot;learn-more-label&quot;]/a[@class=&quot;learn-more-link&quot;]</value>
+      <webElementGuid>07b8db73-6043-4b21-812e-05b17b74eca7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filter']/div[2]/span/a</value>
+      <webElementGuid>5d0aeff5-85e5-4933-99d3-01833554b8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click here to learn more.')]</value>
+      <webElementGuid>31a37f1a-b25d-4550-b4e6-85d24f04a870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/following::a[1]</value>
+      <webElementGuid>eb30f03e-9e6d-439c-9954-d7c53f69bc99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[2]/preceding::a[1]</value>
+      <webElementGuid>5a4aa4fd-9dad-4d4e-803c-68e008c1e110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click here to learn more.']/parent::*</value>
+      <webElementGuid>d1ab5b0f-0c92-4747-b89e-230a8de01dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/a</value>
+      <webElementGuid>ab94faf5-63b5-4f61-8b28-c322fa763fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Click here to learn more.' or . = 'Click here to learn more.')]</value>
+      <webElementGuid>5bfad8fc-bc75-415f-9685-102b0ea71d62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

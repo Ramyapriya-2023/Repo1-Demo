@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login (2)</name>
+   <tag></tag>
+   <elementGuidId>2429fd2d-16e2-4373-96d7-9853bed32b29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='idBody']/app-root/app-pack-back-main/app-pack-back-header/header/div/div/div/div[2]/ul[2]/li[6]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fs-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>744f7161-018f-41d2-914d-50610a0aa7ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-white</value>
+      <webElementGuid>fa880664-e0ed-4a9b-b9c5-7d047d826d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>50584c9c-b7db-4e2f-b900-195ff846380b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idBody&quot;)/app-root[1]/app-pack-back-main[@class=&quot;ng-star-inserted&quot;]/app-pack-back-header[1]/header[1]/div[@class=&quot;web-hd&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;pd-l-00 header-right&quot;]/div[@class=&quot;logpart pl270&quot;]/ul[@class=&quot;header-logpart&quot;]/li[@class=&quot;mt-22px ml-min-55 c-pointer ng-star-inserted&quot;]/span[@class=&quot;fs-white&quot;]</value>
+      <webElementGuid>d9abb8ed-98f5-463f-96c5-4ad10b495fc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='idBody']/app-root/app-pack-back-main/app-pack-back-header/header/div/div/div/div[2]/ul[2]/li[6]/span</value>
+      <webElementGuid>428d522f-e0a6-4648-b4f2-260d9fd0d982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(800) 592-5489'])[1]/following::span[2]</value>
+      <webElementGuid>5e38a642-6992-42cc-8da2-3782e17149d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Service'])[1]/following::span[3]</value>
+      <webElementGuid>9573ab7b-c4fb-439f-9e2e-9b69e544bce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[1]/preceding::span[2]</value>
+      <webElementGuid>6fb5fa41-d5cd-4215-8444-68cb636a2c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categories'])[1]/preceding::span[5]</value>
+      <webElementGuid>3a86af28-2813-4420-a728-51aa324276fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>2dc8df80-c954-4911-8adf-eb8446e86e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/span</value>
+      <webElementGuid>0f013efe-e453-41e2-ad3a-a10f375a1bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>5be49cf3-8fae-4ba3-83aa-34f21c6c4e85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

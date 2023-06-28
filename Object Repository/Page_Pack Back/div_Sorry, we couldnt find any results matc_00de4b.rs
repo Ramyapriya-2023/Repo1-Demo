@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sorry, we couldnt find any results matc_00de4b</name>
+   <tag></tag>
+   <elementGuidId>84410576-e2b6-46c1-8b59-5c0e13202b5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c56-5.toast-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3758e71-5c9b-49db-85d8-0a0a0030848a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alertdialog</value>
+      <webElementGuid>1460234f-5e3e-44aa-845d-ddcd4c2b589d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>f5672ba1-0996-40da-8a3c-348d9e4c4043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c56-5 toast-message ng-star-inserted</value>
+      <webElementGuid>b1af1fc4-b67d-4bba-a35e-9e0bc32b27e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Sorry, we couldn't find any results matching ramya@yopmail.com. Please contact your Customer Service Specialist for additional details.</value>
+      <webElementGuid>937bc23f-5b46-4ac2-9d2c-4d79062e646d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sorry, we couldn't find any results matching ramya@yopmail.com. Please contact your Customer Service Specialist for additional details. </value>
+      <webElementGuid>9ce311ac-007c-4cbb-8783-6f9ba56b0f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c56-5 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-error&quot;]/div[@class=&quot;ng-tns-c56-5 toast-message ng-star-inserted&quot;]</value>
+      <webElementGuid>aca7c1c9-2553-4fd3-82b2-af4d8198326a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div</value>
+      <webElementGuid>bede44a5-1d31-4fed-8797-fbb950921455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::div[6]</value>
+      <webElementGuid>dbcf4e55-f730-452d-8da1-72adb9399c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[6]</value>
+      <webElementGuid>d5482cbc-edf1-4927-8bea-89199964f6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>2faf4876-5fd0-46ac-acf7-a9b18f3b50b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; Sorry, we couldn&quot; , &quot;'&quot; , &quot;t find any results matching ramya@yopmail.com. Please contact your Customer Service Specialist for additional details. &quot;) or . = concat(&quot; Sorry, we couldn&quot; , &quot;'&quot; , &quot;t find any results matching ramya@yopmail.com. Please contact your Customer Service Specialist for additional details. &quot;))]</value>
+      <webElementGuid>d37dcd72-714f-432c-a67b-7677267b112e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

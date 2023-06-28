@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_3</name>
+   <tag></tag>
+   <elementGuidId>c6823658-f20a-4a08-bcca-468bb246c2fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='idBody']/app-root/app-pack-back-main/app-pack-back-header/header/div/div/div/div[2]/ul[2]/li[9]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.roundBtn.roundBtnwhite.bluue-btn.c-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bfcb9f00-e847-49b5-9739-7bb48e3d6656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roundBtn roundBtnwhite bluue-btn c-pointer</value>
+      <webElementGuid>e7927445-9030-41a6-89df-83e3d39a08c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3 </value>
+      <webElementGuid>1c42183c-6dde-4bd9-94cb-f69365f92ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idBody&quot;)/app-root[1]/app-pack-back-main[@class=&quot;ng-star-inserted&quot;]/app-pack-back-header[1]/header[1]/div[@class=&quot;web-hd&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;pd-l-00 header-right&quot;]/div[@class=&quot;logpart pl270&quot;]/ul[@class=&quot;header-logpart&quot;]/li[@class=&quot;circle-icon&quot;]/div[@class=&quot;roundBtn roundBtnwhite bluue-btn c-pointer&quot;]</value>
+      <webElementGuid>25eaba17-114c-4328-8398-71128b82ec4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='idBody']/app-root/app-pack-back-main/app-pack-back-header/header/div/div/div/div[2]/ul[2]/li[9]/div</value>
+      <webElementGuid>93c1560b-901b-4b7c-8286-2648d3827442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[1]/following::div[1]</value>
+      <webElementGuid>dd863c75-a510-43f8-abde-6e2449b3e7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[2]</value>
+      <webElementGuid>f88e013c-7bab-4d90-90c1-4cfe5328b1b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Light Bulbs'])[1]/preceding::div[7]</value>
+      <webElementGuid>35a540de-00fb-40b1-bf5d-2251c95fe5ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div</value>
+      <webElementGuid>f64a2106-9e1a-4c53-87d7-2622a2b0bd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '3 ' or . = '3 ')]</value>
+      <webElementGuid>1d53cc80-ce48-4fd6-b031-2aeb58cbf9e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

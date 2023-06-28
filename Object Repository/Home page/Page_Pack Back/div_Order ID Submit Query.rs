@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Order ID Submit Query</name>
+   <tag></tag>
+   <elementGuidId>7fb11de4-86db-4f50-b2d7-132cedde7f24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-order-track/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ptt00.mh900.pickup-part.m20</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b0684a8-688e-47e8-85ad-c521d98cb7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ptt00 mh900 pickup-part m20</value>
+      <webElementGuid>f3f2e226-5f33-4e9f-85d6-fc15617583ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order ID #:Submit Query</value>
+      <webElementGuid>11f32764-aab7-49cb-b2b6-8a011a463f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-order-track[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ptt00 mh900 pickup-part m20&quot;]</value>
+      <webElementGuid>4706051e-0e29-4c12-805e-b1ab5db3825d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-order-track/div[2]</value>
+      <webElementGuid>637ee2f9-1409-4779-a210-c4187d42cbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificate Of Recycling'])[2]/following::div[1]</value>
+      <webElementGuid>faa30d9d-5b86-48ba-b83d-9a00f2211fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificate Of Recycling'])[1]/following::div[5]</value>
+      <webElementGuid>23fa050c-9879-4e65-a35f-9f4d859c22aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-order-track/div[2]</value>
+      <webElementGuid>7e533a4d-e384-46c5-8da2-34d47c70b1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Order ID #:Submit Query' or . = 'Order ID #:Submit Query')]</value>
+      <webElementGuid>2141fc32-782a-4f20-affd-cfb2fdd1817e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

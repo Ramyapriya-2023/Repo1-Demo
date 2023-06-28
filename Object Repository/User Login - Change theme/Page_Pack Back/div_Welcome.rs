@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome</name>
+   <tag></tag>
+   <elementGuidId>fbf69e52-d0b8-4b7f-808a-fb535f7a30ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='themeH']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gpart.wel-part</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>722db1a8-c0cc-4d31-b445-741b8056bbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gpart wel-part</value>
+      <webElementGuid>9f9783e0-0032-4370-a0bb-d673f5212641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Welcome </value>
+      <webElementGuid>c5311799-b82f-4807-97cc-f1139db8b882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;themeH&quot;)/div[@class=&quot;gpart wel-part&quot;]</value>
+      <webElementGuid>e79849ee-fcac-45bf-b1e3-912be8c3e4e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='themeH']/div</value>
+      <webElementGuid>e85ed61a-1475-4401-b35e-d289a3a9c70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(800) 592-5489'])[1]/following::div[13]</value>
+      <webElementGuid>821e7095-1787-4efa-a3af-bd0522187f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Service'])[1]/following::div[13]</value>
+      <webElementGuid>c75b827c-fb01-4e22-9a33-0418b49cd146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anand Manickam'])[1]/preceding::div[1]</value>
+      <webElementGuid>ef8dafc9-e821-49a9-b7df-ab29c89942c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dashboard'])[1]/preceding::div[3]</value>
+      <webElementGuid>0b14a847-1377-491e-9836-47bf04c8c5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome']/parent::*</value>
+      <webElementGuid>94c8ef05-81fc-4d8a-b278-8fbd5aa384b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-pack-back-sidemenu/div/div/div</value>
+      <webElementGuid>fcbb5590-f19f-4a4d-97ef-de232ba37d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Welcome ' or . = ' Welcome ')]</value>
+      <webElementGuid>c7daee25-012e-4b7b-a038-0ea604af009e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click Here</name>
+   <tag></tag>
+   <elementGuidId>09697d7a-e159-4f35-ab61-f7064b481264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='idBody']/app-root/app-login/form/div/div[4]/div[3]/div[5]/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c717f0d2-69bc-4911-b0cf-1f9046c1f21f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/ForgotPassword</value>
+      <webElementGuid>0b420917-5de6-4136-bc61-431f26b225ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-underline-hover error-text fs12</value>
+      <webElementGuid>0acf5e34-4dc1-4f12-af5a-fbe732dab7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ForgotPassword</value>
+      <webElementGuid>65558b2b-5679-473d-8205-1f271478a145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click Here </value>
+      <webElementGuid>a3bf2f62-d3fc-46fc-a584-e736e1fe84c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idBody&quot;)/app-root[1]/app-login[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;form-horizontal mb0 ng-pristine ng-valid ng-touched&quot;]/div[@class=&quot;login_bg pos-relative&quot;]/div[@class=&quot;delighted-login scrollbar overflow-y-hidden corProjHeight&quot;]/div[@class=&quot;form-section elvs-form&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 fweight600&quot;]/a[@class=&quot;text-underline-hover error-text fs12&quot;]</value>
+      <webElementGuid>47f559f7-079e-4fff-9633-fe4c5e29d96a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='idBody']/app-root/app-login/form/div/div[4]/div[3]/div[5]/div[2]/div[2]/a</value>
+      <webElementGuid>f7a305f0-c27d-4dbc-b72b-8d2cc909cb89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click Here')]</value>
+      <webElementGuid>2e985b87-d5cb-4af7-8319-2265507355de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trouble signing in?'])[1]/following::a[1]</value>
+      <webElementGuid>655480d2-11f0-45e3-b240-9a88f6b50211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-up Now'])[1]/following::a[1]</value>
+      <webElementGuid>19e41100-3129-442e-b34d-677779e03a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click Here']/parent::*</value>
+      <webElementGuid>d2963607-47f8-42a7-a669-3f31c1233e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ForgotPassword')]</value>
+      <webElementGuid>a569b188-8081-40f7-ac0f-8373a11eda50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>6b329091-ff0f-4cfb-8f02-5daa54e3652a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ForgotPassword' and (text() = 'Click Here ' or . = 'Click Here ')]</value>
+      <webElementGuid>652cb21b-f5c2-4131-807d-e4604294e171</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

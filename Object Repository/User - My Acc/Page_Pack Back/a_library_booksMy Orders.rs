@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_library_booksMy Orders</name>
+   <tag></tag>
+   <elementGuidId>48d9ea5e-53dd-45e5-a171-5b9e44c13cb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ulIdClick']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ulIdClick</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6521d17d-bd3b-4f94-8c5b-02d3bed0da22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ulIdClick</value>
+      <webElementGuid>6637f23a-57df-4499-906a-ac50584a12b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ionicon btm-clr c-p</value>
+      <webElementGuid>db34c7b3-29df-4fab-8fe6-0da7b6349ba1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>library_booksMy Orders</value>
+      <webElementGuid>ce74915e-c053-4be4-bab0-b771e87cb32d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ulIdClick&quot;)</value>
+      <webElementGuid>eaa7dd96-2d4b-47f8-bf4c-c2baf8ce70d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ulIdClick']</value>
+      <webElementGuid>e9c65b3a-97f1-4efc-9ee7-5f3c532fe74f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='menu-list']/app-pack-back-sidemenu/div[2]/ul/li[8]/a</value>
+      <webElementGuid>0da57d97-f0f8-415d-81f9-b5f8d3c2005d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/following::a[1]</value>
+      <webElementGuid>a4b62c80-22dc-4178-b406-fa8e08f475ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-PCB Ballasts'])[1]/following::a[2]</value>
+      <webElementGuid>cefaf8f4-6fd3-4a80-925e-d2bfe74f73f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>f93f92b5-8a9f-4745-97e7-99493b647df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ulIdClick' and (text() = 'library_booksMy Orders' or . = 'library_booksMy Orders')]</value>
+      <webElementGuid>27e1b483-e631-4498-97b5-8f792d5ca418</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

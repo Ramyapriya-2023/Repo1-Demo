@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invalid Username or Password. This acco_ee745d</name>
+   <tag></tag>
+   <elementGuidId>4289b5f5-43c5-44e2-ab70-56a089089080</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c56-3.toast-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>042b046d-98af-4e2e-8305-987e1eb1025a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alertdialog</value>
+      <webElementGuid>56312d0e-5ffa-4e0f-94ce-426c30454283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>330a8230-7918-4bb4-a6a1-8ebb46a7be4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c56-3 toast-message ng-star-inserted</value>
+      <webElementGuid>5104d28a-37f8-470e-b8c4-e9a1c81ba854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid Username or Password. This account has been locked.  Please contact your customer service representative or click here to reset your password.</value>
+      <webElementGuid>50e2aabd-f566-4846-bf38-e0aca372edbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c56-3 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-error&quot;]/div[@class=&quot;ng-tns-c56-3 toast-message ng-star-inserted&quot;]</value>
+      <webElementGuid>dda7f19e-cfa6-4449-8fcf-07bbd42ad9b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div</value>
+      <webElementGuid>679d64e8-20ed-4ae7-bc74-8936333e6f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click Here'])[1]/following::div[6]</value>
+      <webElementGuid>35ff773b-4666-4578-b40b-978d606dc150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trouble signing in?'])[1]/following::div[7]</value>
+      <webElementGuid>34e7d306-3fd7-4d70-997b-9ffbe20c3942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>7c3cf363-a387-4753-ba4e-98e1466ed472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invalid Username or Password. This account has been locked.  Please contact your customer service representative or click here to reset your password.' or . = 'Invalid Username or Password. This account has been locked.  Please contact your customer service representative or click here to reset your password.')]</value>
+      <webElementGuid>97ea570a-e85b-48a6-b557-76e518033896</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Pack Back Electronics Recycling Box - La_d67d93</name>
+   <tag></tag>
+   <elementGuidId>9aa5490c-c86b-4a14-9bd9-ca284ab68295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-cart/div/div/div/div/div/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.col-sm-8.col-md-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6d474ef0-8862-4c80-ba2c-65198cfa0c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-8 col-md-6</value>
+      <webElementGuid>0691c2dc-a29c-4bfb-a7c2-13aa5462da6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pack Back Electronics Recycling Box - LargeAutomatic Replenishment: Would you like us to ship you a replacement for this item when you return it for recycling?</value>
+      <webElementGuid>12d256c3-1e12-45c4-90dd-c08b49a7c7cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-cart[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 mh900 pickup-part pack-back-part row m0&quot;]/div[@class=&quot;row mg_tr&quot;]/div[@class=&quot;col-12 col-md-12 col-lg-8 col-xl-8 mb-3&quot;]/div[@class=&quot;card table_card ml10&quot;]/table[@class=&quot;table productTable d-none d-sm-none d-xs-none d-lg-block d-md-block d-xl-block d-xxl-block&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;col-sm-8 col-md-6&quot;]</value>
+      <webElementGuid>eac0139a-b11e-4998-b8e9-1dd31c807ce4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-cart/div/div/div/div/div/div/table/tbody/tr/td</value>
+      <webElementGuid>a0464b45-b657-4824-83d3-313c36021c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::td[1]</value>
+      <webElementGuid>af33709b-a93f-4529-8539-5287e94571e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[2]/following::td[1]</value>
+      <webElementGuid>45989d22-a7d7-42a9-b043-274c647e5abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>ada2a3b0-9456-428f-ac5c-60daf15918dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Pack Back Electronics Recycling Box - LargeAutomatic Replenishment: Would you like us to ship you a replacement for this item when you return it for recycling?' or . = 'Pack Back Electronics Recycling Box - LargeAutomatic Replenishment: Would you like us to ship you a replacement for this item when you return it for recycling?')]</value>
+      <webElementGuid>bc979dcd-174e-4eea-92cb-cbe4214a37f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

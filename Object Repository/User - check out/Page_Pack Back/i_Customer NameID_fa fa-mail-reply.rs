@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Customer NameID_fa fa-mail-reply</name>
+   <tag></tag>
+   <elementGuidId>2d9957b6-8583-429b-b64f-012a6bf1d473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='idBody']/ngb-modal-window/div/div/app-cus-search/div/div[2]/app-cus-search-tabs/div/div[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-mail-reply</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>87261f5a-3733-4e47-869c-3c6178f6db83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3451e291-2ea5-48cd-9308-c2f0dfab6aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-mail-reply</value>
+      <webElementGuid>0e009d7f-d7d2-4478-9bf1-7515b4197578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idBody&quot;)/ngb-modal-window[@class=&quot;d-block modal profile-modal fade show&quot;]/div[@class=&quot;modal-dialog modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/app-cus-search[1]/div[@class=&quot;modal-content mt-50 custom-modal custom-toaster-modal&quot;]/div[@class=&quot;modal-body&quot;]/app-cus-search-tabs[1]/div[@class=&quot;row mg10&quot;]/div[@class=&quot;col-md-1&quot;]/a[@class=&quot;replay pull-left ml20 mgmin10&quot;]/i[@class=&quot;fa fa-mail-reply&quot;]</value>
+      <webElementGuid>ca3e9df9-d8d2-4d4e-9091-1098f9f7ddaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='idBody']/ngb-modal-window/div/div/app-cus-search/div/div[2]/app-cus-search-tabs/div/div[2]/a/i</value>
+      <webElementGuid>b87b565b-b867-4da9-be69-74279e8882c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/i</value>
+      <webElementGuid>0f25e5ab-1f3d-495d-b303-a0abf7012bcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
