@@ -6,12 +6,12 @@
    <elementGuidId>163431d9-4e49-4e47-9825-b6d2356ba5fe</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='edit_service_cats__3_chosen']/ul</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>ul.chosen-choices</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by Service'])[1]/following::ul[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

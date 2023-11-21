@@ -6,12 +6,11 @@
    <elementGuidId>a560ba77-4d8c-4ff7-8e02-c24b96c0cb1c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='rightcontent']/app-packback-home/div/div[3]/div/div/div/div[2]/div/img</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//img[@src = '../../../../../assets/images/pack-back/dashboard/5 Gallon - Battery Bucket.png']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>e6aa82fb-d4d3-4fb7-b223-c8d4aee5bdcd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='edit_field_address_country_code__3_chosen']/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.chosen-single > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Country'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

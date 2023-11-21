@@ -6,12 +6,11 @@
    <elementGuidId>0e5863cc-ea84-4a4e-94fa-8d55f9a5cb3a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='edit_service_cats__3_chosen']/div/ul/li[3]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Field Services'])[4]/following::li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

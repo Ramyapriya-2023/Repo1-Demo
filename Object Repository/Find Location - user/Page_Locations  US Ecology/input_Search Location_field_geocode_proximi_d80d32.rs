@@ -6,12 +6,12 @@
    <elementGuidId>6c4a4aa0-d6e5-40a1-b08d-1fdb2020c9a5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='edit-field-geocode-proximity-source-configuration-origin-address--3']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#edit-field-geocode-proximity-source-configuration-origin-address--3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

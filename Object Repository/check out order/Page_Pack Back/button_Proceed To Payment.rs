@@ -6,12 +6,12 @@
    <elementGuidId>aecdd764-380c-4337-81e5-010e87eb4619</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='rightcontent']/app-checkout/div/div/div/div/div/div/div/div[3]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Predefined Themes'])[1]/preceding::button[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

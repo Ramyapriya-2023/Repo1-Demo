@@ -6,12 +6,12 @@
    <elementGuidId>014c86b8-c33f-45d2-91c6-b819d7da9103</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='toast-container']/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.ng-tns-c56-3.ng-star-inserted.ng-trigger.ng-trigger-flyInOut.ngx-toastr.toast-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>aa7da3e1-0a29-4b60-9f33-4423f5b2841b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='rightcontent']/app-cart/div/div/div/div/div[2]/div/div[2]/div[3]/p</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p.btn.marAuto20.btn-addcart.btn-sm.float-start</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

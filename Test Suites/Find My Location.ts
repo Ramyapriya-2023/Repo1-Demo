@@ -12,10 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>9ccefacb-1182-4a20-82b9-f376a1bb24f5</testSuiteGuid>
    <testCaseLink>
-      <guid>a927c0a5-beb4-4462-8ee9-f96fb3444338</guid>
+      <guid>ebb8177f-4615-4654-8cb5-d42765671d2f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/User - Find location screen/Find a location page</testCaseId>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Backpack - Testcases old/User - Find location screen/Find a location page</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

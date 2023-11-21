@@ -6,12 +6,12 @@
    <elementGuidId>af14c295-9094-4ab1-ad67-354809ead9b3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='rightcontent']/app-productlist/div/div[3]/div/div/div/div/div/div[5]/button</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.btn.btn-sm.buttonInfo.btn-addcart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-productlist/div/div[3]/div/div/div/div/div/div[5]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

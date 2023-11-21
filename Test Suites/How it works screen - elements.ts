@@ -15,7 +15,7 @@
       <guid>04f2d68d-7c8e-467f-a065-7634504ddb5d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/How it works - Link elements/Contact US Screen</testCaseId>
+      <testCaseId>Test Cases/Backpack - Testcases old/How it works - Link elements/Contact US Screen</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

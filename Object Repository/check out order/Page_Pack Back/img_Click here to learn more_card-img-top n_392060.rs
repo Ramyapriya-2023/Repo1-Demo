@@ -6,12 +6,12 @@
    <elementGuidId>5802faaa-cecf-498d-be68-c074e3fff725</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//section[@id='rightcontent']/app-packback-home/div/div[3]/div/div/div/div/div/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.card-img-top.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@src = '../../../../../assets/images/pack-back/dashboard/8 foot lamp box.png']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>30d4ff75-9569-409e-a171-0c9adf98379e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='edit_service_cats__3_chosen']/div/ul/li[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.result-selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency Response Services'])[3]/following::li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -15,7 +15,7 @@
       <guid>a245537f-4473-4751-ad86-4baa717fa05d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/User - My_Account/My Acc_ChangeFieldData</testCaseId>
+      <testCaseId>Test Cases/Backpack - Testcases old/User - My_Account/My Acc_ChangeFieldData</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

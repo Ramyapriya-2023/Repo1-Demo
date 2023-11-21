@@ -15,14 +15,14 @@
       <guid>4c916d42-ca6d-4428-a3cf-1555e8a73fec</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Forgot password/Forgot password - Invalid data</testCaseId>
+      <testCaseId>Test Cases/Backpack - Testcases old/Forgot password/Forgot password - Invalid data</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>6313bed1-5acb-44e2-9d33-2d920889150c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Forgot password/Forgot password - invalid data(change toggle)</testCaseId>
+      <testCaseId>Test Cases/Backpack - Testcases old/Forgot password/Forgot password - invalid data(change toggle)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
