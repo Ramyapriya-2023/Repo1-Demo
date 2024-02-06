@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_I have read and agree to the Pack Back_0545a3</name>
+   <tag></tag>
+   <elementGuidId>59aeecb0-5fbc-4d80-8ae1-acbb25044871</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-pack-back-payment/div/div/div/div/div[2]/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.pad-lft-24</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0fe5de03-dc2f-44f9-be80-5d4fad23c636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pad-lft-24</value>
+      <webElementGuid>3eb88c41-2b7f-4c0b-9e81-041adcd8cd72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have read and agree to the Pack Back Recycling Service Terms and Conditions</value>
+      <webElementGuid>8b1543ee-619c-4a0f-add7-8d2bdb246a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-pack-back-payment[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 pickup-part row m0&quot;]/div[@class=&quot;e-learning-body&quot;]/div[@class=&quot;row d-flex confirmNote&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;position-relative&quot;]/label[@class=&quot;profile-label d-inline-block&quot;]/span[@class=&quot;pad-lft-24&quot;]</value>
+      <webElementGuid>96dfcace-2558-48d7-b8d3-18a7f797a2da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-pack-back-payment/div/div/div/div/div[2]/div/div/label/span</value>
+      <webElementGuid>76af9599-1435-4753-848f-48f5e8007705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maine 12343'])[2]/following::span[1]</value>
+      <webElementGuid>adf343dd-6216-48ea-b640-bdc465497128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NY'])[2]/following::span[2]</value>
+      <webElementGuid>e5e37fe8-acf3-48ef-b93f-ea189eca1418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Order'])[1]/preceding::span[1]</value>
+      <webElementGuid>d7a3d2cc-e2f1-4f30-a872-6f1da9569e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have read and agree to the Pack Back Recycling Service']/parent::*</value>
+      <webElementGuid>b023eccd-3227-46f9-923d-ae8c4ba47c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/label/span</value>
+      <webElementGuid>c1a81cc8-99a6-45c3-8832-6d4528557c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'I have read and agree to the Pack Back Recycling Service Terms and Conditions' or . = 'I have read and agree to the Pack Back Recycling Service Terms and Conditions')]</value>
+      <webElementGuid>862471b3-9fc3-4a4a-999e-58c60033d174</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

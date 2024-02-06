@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_Customer_fa fa-search c-pointer searchCo_e78542</name>
+   <tag></tag>
+   <elementGuidId>1bcd3364-8946-4b72-8bfe-a734a4fee7d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-checkout/div/app-useraddress/div/div/div/div/div/div/form/div/div/div[2]/div/div[3]/a/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>em.fa.fa-search.c-pointer.searchColor.search-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>e7fe063a-a687-4b32-b2fc-ecf9f27e7950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8ff17bce-881f-477f-b2b7-70005c8afc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search c-pointer searchColor search-pointer</value>
+      <webElementGuid>9991f756-3ec2-4598-b9a8-705b4a72238c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip-6</value>
+      <webElementGuid>8f9f9488-f9e2-4aab-a7a6-10cb7d99a34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-checkout[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/app-useraddress[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;pickup-part&quot;]/div[@class=&quot;e-learning-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;card table_card&quot;]/div[@class=&quot;cartTable&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-12 col-lg-12 col-xl-12&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;row col-12 col-md-12 col-lg-6 col-xl-6&quot;]/div[@class=&quot;col-lg-1 col-xl-1 col-md-1 col-1&quot;]/a[1]/em[@class=&quot;fa fa-search c-pointer searchColor search-pointer&quot;]</value>
+      <webElementGuid>f1982eea-9d12-471b-9a60-f8669aa80988</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-checkout/div/app-useraddress/div/div/div/div/div/div/form/div/div/div[2]/div/div[3]/a/em</value>
+      <webElementGuid>5cd6b472-121e-4b72-a40a-d714fe247b6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/em</value>
+      <webElementGuid>e63ea73e-a54d-4b9d-9f78-ad1c866fa94a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

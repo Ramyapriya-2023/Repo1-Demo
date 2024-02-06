@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cart Updated</name>
+   <tag></tag>
+   <elementGuidId>1fc9d491-14fc-4f75-8828-948b2f7e5cea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c56-2.toast-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00ed0ab1-ba99-47f8-8c17-827e287bcec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alertdialog</value>
+      <webElementGuid>51fa4119-cb9c-42f9-b251-53f94829321c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>8b3215db-e19b-45f1-a12a-ec1a3e3f6ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c56-2 toast-message ng-star-inserted</value>
+      <webElementGuid>a6c1519d-ae8a-4c71-9e39-476e87d51db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Cart Updated</value>
+      <webElementGuid>86629e11-4761-4a96-914b-19c7ce00c91b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cart Updated </value>
+      <webElementGuid>94394047-cc2f-4ccf-9c4d-21581f9692d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c56-2 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-info&quot;]/div[@class=&quot;ng-tns-c56-2 toast-message ng-star-inserted&quot;]</value>
+      <webElementGuid>031047a9-06cf-4a8e-9883-46a100bd347b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div</value>
+      <webElementGuid>d642915a-b588-4e3b-8fdc-7c7ec23ea0f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User to Impersonate'])[1]/following::div[9]</value>
+      <webElementGuid>82df6133-a0dd-4d74-8c66-831f87bb3311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logged in as'])[1]/following::div[11]</value>
+      <webElementGuid>a14d3641-8aea-4c9b-ac9a-ecf2c1aaeb89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cart Updated']/parent::*</value>
+      <webElementGuid>93c9b7ec-2a84-4474-88e5-594c293fbf79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>abfa7d73-b1ca-4152-bf74-b0aa0f0a7d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Cart Updated ' or . = ' Cart Updated ')]</value>
+      <webElementGuid>feeaa07f-693b-46ac-9c07-322bba75f8df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

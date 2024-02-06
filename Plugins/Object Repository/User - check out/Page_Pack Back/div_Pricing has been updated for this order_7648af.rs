@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pricing has been updated for this order_7648af</name>
+   <tag></tag>
+   <elementGuidId>0553e999-05ed-42ac-8111-2db183b18bb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c56-6.toast-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c2ffeb3a-284d-412f-8deb-8a01e084a8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alertdialog</value>
+      <webElementGuid>59604959-3ec0-4d3b-8984-6ce620229d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>381dc83c-8647-4c07-b083-61582ff213a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c56-6 toast-message ng-star-inserted</value>
+      <webElementGuid>18dc6b22-6164-4e6b-a077-c88906862eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pricing has been updated for this order based on customer account contracted rates.</value>
+      <webElementGuid>4bd90e21-799f-44e3-9ab9-badb1db06886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c56-6 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success&quot;]/div[@class=&quot;ng-tns-c56-6 toast-message ng-star-inserted&quot;]</value>
+      <webElementGuid>341877bf-fdb9-4781-a2f3-da49d0d127db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div</value>
+      <webElementGuid>d17e4733-7e79-4709-b48a-5871ca9d576d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User to Impersonate'])[1]/following::div[9]</value>
+      <webElementGuid>79a90272-6888-46e8-ac64-2d568d3da599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logged in as'])[1]/following::div[11]</value>
+      <webElementGuid>79d398f4-2d18-4e7b-8af2-aa0a14a9104d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pricing has been updated for this order based on customer account contracted rates.']/parent::*</value>
+      <webElementGuid>dfdf1d3b-5d5f-440c-aec7-cd1bafce682f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>c2162223-2475-45a6-bda9-77fc096d821c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pricing has been updated for this order based on customer account contracted rates.' or . = 'Pricing has been updated for this order based on customer account contracted rates.')]</value>
+      <webElementGuid>ce8d36a7-0b7b-451a-8afb-c8b21b092375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

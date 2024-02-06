@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Filter by Service_chosen-search-input_65e1c4</name>
+   <tag></tag>
+   <elementGuidId>4cf7a962-b3a6-42ce-96ec-f8749acca91b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='All Services']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.chosen-search-input.default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bcdc3eaf-1bc7-4965-b855-6fc04da3af52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-search-input default</value>
+      <webElementGuid>4828c2e9-73d8-4783-8598-fd5514cac00d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f950755d-faa3-44d1-b04d-cd1872b250cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>dda2d044-aa71-4b79-9ea4-3668e96ab179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>All Services</value>
+      <webElementGuid>0816c2e1-ca0a-4420-826c-683f14d9731e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit_service_cats__3_chosen&quot;)/ul[@class=&quot;chosen-choices&quot;]/li[@class=&quot;search-field&quot;]/input[@class=&quot;chosen-search-input default&quot;]</value>
+      <webElementGuid>d12dafcd-533e-4170-95d7-c444b7df3956</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='All Services']</value>
+      <webElementGuid>a25a4d00-1a75-47e3-b0a8-db19816a8ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit_service_cats__3_chosen']/ul/li/input</value>
+      <webElementGuid>ee3b0214-483b-401f-88ed-7cb917e821aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/input</value>
+      <webElementGuid>22c92356-5044-4eae-aa3d-be83663d3f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>7f97481d-da0e-4277-9a26-af094914e40b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

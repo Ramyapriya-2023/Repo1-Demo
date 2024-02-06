@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue as a guest</name>
+   <tag></tag>
+   <elementGuidId>b4a7b6c0-aad7-403b-a908-374df9711a76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='guestlogin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#guestlogin</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c2bf9aaa-9e5c-4c7f-a239-e961450991cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>guestlogin</value>
+      <webElementGuid>7f29a95e-8929-4c11-8108-48bd8e9fdc82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>white btn col-md-6 btn-sm btn-warning</value>
+      <webElementGuid>f3dcd0a1-f0fd-4fb2-9a7b-645903f1e6e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Continue as a guest </value>
+      <webElementGuid>b4f9eae3-0b10-4b55-bf52-efc60207d9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;guestlogin&quot;)</value>
+      <webElementGuid>9f68a6f8-d097-4dc5-a270-a60bd45309f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='guestlogin']</value>
+      <webElementGuid>56206c35-c981-46d8-9384-c5afceee8559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='idBody']/ngb-modal-window/div/div/div/div[2]/div/button[2]</value>
+      <webElementGuid>5b5361fb-4bbf-4319-b3cf-3787b19cdff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login/Create Login'])[1]/following::button[1]</value>
+      <webElementGuid>40849f15-3d95-4e19-881b-f56d248a5423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::button[2]</value>
+      <webElementGuid>61e6cb2a-cfb6-4731-87bf-0c1000cad5e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue as a guest']/parent::*</value>
+      <webElementGuid>9701c816-1422-4e74-ac6d-7996e0cc7242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>7559a533-e905-4cd1-8168-8720ca4faf08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'guestlogin' and (text() = ' Continue as a guest ' or . = ' Continue as a guest ')]</value>
+      <webElementGuid>ee65a248-50b2-42cc-829e-76bd00721f4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

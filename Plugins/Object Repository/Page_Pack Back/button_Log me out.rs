@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Log me out</name>
+   <tag></tag>
+   <elementGuidId>3e1f8ab6-d66f-4eb2-908a-46dc4c8c8646</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.white.btn.btn-sm.btn-danger.ml-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='idBody']/ngb-modal-window/div/div/app-logout-confirmation/div/div[2]/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5055aa45-ddce-4aa3-a949-46209f8cceba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>white btn btn-sm btn-danger ml-0</value>
+      <webElementGuid>cb1edc19-d223-4b24-a03a-3d4cd19ac0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>10c84ed2-f760-465e-91a2-8c0ac2526211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log me out </value>
+      <webElementGuid>0e57785d-effe-44c2-b450-d283d5e8780d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idBody&quot;)/ngb-modal-window[@class=&quot;custom-toaster-modal d-block logoutPop modal fade show&quot;]/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/app-logout-confirmation[1]/div[@class=&quot;getlookuppopup&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[@class=&quot;text-center&quot;]/button[@class=&quot;white btn btn-sm btn-danger ml-0&quot;]</value>
+      <webElementGuid>7457097a-b471-472a-a1fc-0b616fca901d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='idBody']/ngb-modal-window/div/div/app-logout-confirmation/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>fd8d0e2d-f200-4061-9f6e-990ce3f32222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::button[1]</value>
+      <webElementGuid>4f1a7d26-37ab-4417-8f07-34253da641c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout Confirmation'])[1]/following::button[2]</value>
+      <webElementGuid>0699ef5d-d014-4f3a-892d-7ce70513ab9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log me out']/parent::*</value>
+      <webElementGuid>17517714-bad8-4ebd-b59d-34906c93df3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>741ba3dc-dd58-4d02-bbe6-b24539a6fd7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Log me out ' or . = 'Log me out ')]</value>
+      <webElementGuid>23683d0c-5dc7-4227-8e0a-dd51c16083bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

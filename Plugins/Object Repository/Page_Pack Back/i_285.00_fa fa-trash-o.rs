@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_285.00_fa fa-trash-o</name>
+   <tag></tag>
+   <elementGuidId>9bc38119-d002-44ca-99dd-84f4cb0b98ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-cart/div/div/div/div/div/div/table/tbody/tr/td[5]/strong/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.col-sm-1.col-md-1.text-center > strong.error-text > i.fa.fa-trash-o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>91d02650-23d5-4a3b-ac1a-bf5b5a513152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cd944205-d2ed-48a9-a620-4de326f1ede8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash-o</value>
+      <webElementGuid>15715f25-d908-44ea-9f8a-2158d122fe62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-cart[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 mh900 pickup-part pack-back-part row m0&quot;]/div[@class=&quot;row mg_tr&quot;]/div[@class=&quot;col-12 col-md-12 col-lg-8 col-xl-8 mb-3&quot;]/div[@class=&quot;card table_card ml10&quot;]/table[@class=&quot;table productTable d-none d-sm-none d-xs-none d-lg-block d-md-block d-xl-block d-xxl-block&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;col-sm-1 col-md-1 text-center&quot;]/strong[@class=&quot;error-text&quot;]/i[@class=&quot;fa fa-trash-o&quot;]</value>
+      <webElementGuid>d744e605-68bd-4567-9888-823b68d8ac56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-cart/div/div/div/div/div/div/table/tbody/tr/td[5]/strong/i</value>
+      <webElementGuid>e2dabfa0-6b87-49fd-bb3d-90db45df49db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/strong/i</value>
+      <webElementGuid>9587bb5d-bb21-4eae-86ba-7568d416b7f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

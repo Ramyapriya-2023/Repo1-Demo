@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HOW IT WORKS</name>
+   <tag></tag>
+   <elementGuidId>2c90c1fa-f398-4a45-a81d-5f1d0582a486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-packback-home/div/div[3]/div/div/div/div[6]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8a37992a-6874-48b0-bedd-873cb0c21065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-footer</value>
+      <webElementGuid>567a3571-2b41-4a98-837b-67fb4e1ad006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HOW IT WORKS</value>
+      <webElementGuid>c35a07fc-e46c-4998-86b4-8fc619ea6f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-packback-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 mh900 pickup-part pack-back-part&quot;]/div[@class=&quot;e-learning-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-4 col-lg-4 col-md-6 col-sm-6 ng-star-inserted&quot;]/div[@class=&quot;cat_card&quot;]/div[@class=&quot;card-footer&quot;]</value>
+      <webElementGuid>974d0812-69af-4037-988d-870d6cd2d481</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-packback-home/div/div[3]/div/div/div/div[6]/div/div</value>
+      <webElementGuid>10ae51c8-c0cd-47c6-8a09-4e10be87a277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MERCURY DEVICES'])[1]/following::div[3]</value>
+      <webElementGuid>3386e90e-0fde-47da-a3d6-f83d03315240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NON-PCB BALLASTS'])[1]/following::div[6]</value>
+      <webElementGuid>a1a718b2-b50c-4f73-8cde-01227ef4677f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRACK MY ORDER &amp; ORDER HISTORY'])[1]/preceding::div[1]</value>
+      <webElementGuid>28269ece-7825-4041-b732-1c4c1a802b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CERTIFICATE OF RECYCLING'])[1]/preceding::div[4]</value>
+      <webElementGuid>33c0d9b7-5c46-45c4-9cbe-0dd62bf3c6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HOW IT WORKS']/parent::*</value>
+      <webElementGuid>8a712685-4dcf-46ca-9a2a-9149b5b4ba5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>e5b6f521-800a-4114-b903-73d084a4a155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'HOW IT WORKS' or . = 'HOW IT WORKS')]</value>
+      <webElementGuid>2fd6851b-1539-442f-b588-2e45e778c33c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

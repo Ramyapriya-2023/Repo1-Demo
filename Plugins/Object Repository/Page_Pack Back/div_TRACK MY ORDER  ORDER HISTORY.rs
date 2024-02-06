@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TRACK MY ORDER  ORDER HISTORY</name>
+   <tag></tag>
+   <elementGuidId>b1258d5c-a5bd-409c-a774-c1fc9af65f23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-packback-home/div/div[3]/div/div/div/div[7]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14fda33f-218e-4a59-96a5-c49251e341dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-footer</value>
+      <webElementGuid>8aaf6b25-329b-45a9-a3c7-3e99e23951d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRACK MY ORDER &amp; ORDER HISTORY</value>
+      <webElementGuid>4daa42b3-72c2-45c3-8fbc-9ecaed7d1812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-packback-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 mh900 pickup-part pack-back-part&quot;]/div[@class=&quot;e-learning-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-4 col-lg-4 col-md-6 col-sm-6 ng-star-inserted&quot;]/div[@class=&quot;cat_card&quot;]/div[@class=&quot;card-footer&quot;]</value>
+      <webElementGuid>f91713a2-7eca-483e-a675-123b0de73b4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-packback-home/div/div[3]/div/div/div/div[7]/div/div</value>
+      <webElementGuid>2662923a-226d-4dfa-8238-1b7207153a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOW IT WORKS'])[1]/following::div[3]</value>
+      <webElementGuid>8fe8fd08-5d3e-490e-9f58-39431e1d8c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MERCURY DEVICES'])[1]/following::div[6]</value>
+      <webElementGuid>709cf633-f5c1-468e-b334-e6ba87c2bee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CERTIFICATE OF RECYCLING'])[1]/preceding::div[1]</value>
+      <webElementGuid>7dba09ce-60bb-41a4-8783-37c1e963709b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN/CREATE AN ACCOUNT'])[1]/preceding::div[4]</value>
+      <webElementGuid>7591e3eb-9703-4c5d-ab1f-49b5b73c4eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TRACK MY ORDER &amp; ORDER HISTORY']/parent::*</value>
+      <webElementGuid>2145e874-0bbd-4171-acf6-cd2027d46339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div</value>
+      <webElementGuid>af488195-40aa-4d12-b49b-5ba48a1e5055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TRACK MY ORDER &amp; ORDER HISTORY' or . = 'TRACK MY ORDER &amp; ORDER HISTORY')]</value>
+      <webElementGuid>f36722af-82a8-44b7-aa89-c5e9751f8a81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

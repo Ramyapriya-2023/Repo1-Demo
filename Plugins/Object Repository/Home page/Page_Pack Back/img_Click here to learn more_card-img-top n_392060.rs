@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Click here to learn more_card-img-top n_392060</name>
+   <tag></tag>
+   <elementGuidId>f8bf5616-c32b-499f-aba7-ea70c090a08b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-packback-home/div/div[3]/div/div/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.card-img-top.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>181a8634-3eeb-474c-b1a8-5e56c1872856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../../../../../assets/images/pack-back/dashboard/Image140.png</value>
+      <webElementGuid>d6a04b03-fd66-467e-89ae-062411009eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-img-top ng-star-inserted</value>
+      <webElementGuid>07d25db9-3a58-46d3-822c-121e875aef49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-packback-home[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 mh900 pickup-part pack-back-part&quot;]/div[@class=&quot;e-learning-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-4 col-lg-4 col-md-6 col-sm-6 ng-star-inserted&quot;]/div[@class=&quot;cat_card&quot;]/img[@class=&quot;card-img-top ng-star-inserted&quot;]</value>
+      <webElementGuid>37cc9225-d525-4797-a673-4ee9c7b63cf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-packback-home/div/div[3]/div/div/div/div/div/img</value>
+      <webElementGuid>3c6fa92d-b0c1-4b6d-87d0-4373c791d444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/img</value>
+      <webElementGuid>e23c41cd-7936-48e6-bc3e-a86437278748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../../../../../assets/images/pack-back/dashboard/Image140.png']</value>
+      <webElementGuid>09542ffc-94c9-412c-9ddd-8395177c2f45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

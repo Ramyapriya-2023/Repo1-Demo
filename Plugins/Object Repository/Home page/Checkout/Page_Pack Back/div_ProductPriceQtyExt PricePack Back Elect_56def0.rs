@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ProductPriceQtyExt PricePack Back Elect_56def0</name>
+   <tag></tag>
+   <elementGuidId>1b0b34ab-4664-4c7d-a45e-5eae45f69845</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-pack-back-payment/div/div/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bae45b40-3a58-4197-9502-89f7fd6d922f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>11d3b36d-7cc9-4ff9-9b11-3b424c7b82d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ProductPriceQtyExt PricePack Back Electronics Recycling Box - Large Automatic Replenishment $180.001$180.00 Pack Back CFL/LED Recycling Box - Large Automatic Replenishment $95.002$190.00 Total Price$370.00</value>
+      <webElementGuid>95e710fa-0b98-40fc-8dfe-b154231589eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-pack-back-payment[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper ng-star-inserted&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 pickup-part row m0&quot;]/div[@class=&quot;e-learning-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 form-group&quot;]/div[@class=&quot;card tittle_card orderCard&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>721721d0-8708-4764-8a6c-d20c37124217</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-pack-back-payment/div/div/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>b797ca65-d495-4ba7-9ec9-d1355cc3e001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Summary'])[1]/following::div[1]</value>
+      <webElementGuid>172f4804-bb63-4b27-be1d-7e511c142a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Card'])[1]/following::div[6]</value>
+      <webElementGuid>08998240-535c-4309-ba90-f2916107a1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]</value>
+      <webElementGuid>b96ba109-17c3-44e5-b94c-0f19806cfd42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ProductPriceQtyExt PricePack Back Electronics Recycling Box - Large Automatic Replenishment $180.001$180.00 Pack Back CFL/LED Recycling Box - Large Automatic Replenishment $95.002$190.00 Total Price$370.00' or . = 'ProductPriceQtyExt PricePack Back Electronics Recycling Box - Large Automatic Replenishment $180.001$180.00 Pack Back CFL/LED Recycling Box - Large Automatic Replenishment $95.002$190.00 Total Price$370.00')]</value>
+      <webElementGuid>5beead0d-7016-4d48-8466-70beef898aae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

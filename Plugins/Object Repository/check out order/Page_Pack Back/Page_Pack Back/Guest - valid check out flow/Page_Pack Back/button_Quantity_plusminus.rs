@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Quantity_plusminus</name>
+   <tag></tag>
+   <elementGuidId>00640c61-a30a-4821-843b-a300e507f0d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='rightcontent']/app-productlist/div/div[3]/div/div/div[3]/div/div/div[4]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f93ec990-bb62-4e71-98fe-f399083340a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>plusminus</value>
+      <webElementGuid>631e2008-a7db-4d19-815a-de7ee4c4469e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightcontent&quot;)/app-productlist[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;ptt00 mh900 pickup-part pack-back-part ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-lg-3 col-xl-3 ng-star-inserted&quot;]/div[@class=&quot;productCard&quot;]/div[@class=&quot;card-body prd_details&quot;]/div[@class=&quot;d-inline-flex marginList&quot;]/div[@class=&quot;wrapper_btn&quot;]/button[@class=&quot;plusminus&quot;]</value>
+      <webElementGuid>a1130bca-8a0c-41ce-8a9f-259742a71381</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='rightcontent']/app-productlist/div/div[3]/div/div/div[3]/div/div/div[4]/div/button[2]</value>
+      <webElementGuid>2edf452a-c5b5-4053-b066-e8f49c45c358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[3]/following::button[2]</value>
+      <webElementGuid>3f5c61f6-aa7a-49fd-803e-beb5626b8e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$ 55.00'])[1]/following::button[2]</value>
+      <webElementGuid>4c8b9eca-79ef-48d7-bf93-d0366a1b74b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Cart'])[3]/preceding::button[1]</value>
+      <webElementGuid>9749bc4e-3103-4d91-a2cb-28e501911243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[3]/preceding::button[2]</value>
+      <webElementGuid>08945e19-48ea-4828-8323-8ead06d07346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[4]/div/button[2]</value>
+      <webElementGuid>e6def132-bdb4-4f02-877a-60aaffa6bce1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

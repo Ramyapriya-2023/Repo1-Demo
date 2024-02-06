@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No records found</name>
+   <tag></tag>
+   <elementGuidId>9589edab-59b7-4ed4-a9ff-968a7d98e88d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c56-2.toast-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>562d66cb-3b6d-4079-8d32-d8c87aad69c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alertdialog</value>
+      <webElementGuid>d6d1727f-809e-4573-96ee-f219c3bbcb04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>75bdb147-207f-4caa-b450-91b035e11e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c56-2 toast-message ng-star-inserted</value>
+      <webElementGuid>e7755a65-22ae-412a-9238-6ba5643b9598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>No records found</value>
+      <webElementGuid>16a11ea7-2c79-4cdf-b764-aa49071bdf48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> No records found </value>
+      <webElementGuid>9318e3f7-9434-4303-8170-09ca2374ebd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c56-2 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-info&quot;]/div[@class=&quot;ng-tns-c56-2 toast-message ng-star-inserted&quot;]</value>
+      <webElementGuid>b5adac22-172a-4e0b-ac63-334bb3953ac6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div</value>
+      <webElementGuid>15e693b8-6106-4271-aab5-a47682563e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User to Impersonate'])[1]/following::div[9]</value>
+      <webElementGuid>17faa61b-1249-493f-bdbd-86d565f3564a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logged in as'])[1]/following::div[11]</value>
+      <webElementGuid>292f5e9c-9777-44ec-b244-f4566a983da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No records found']/parent::*</value>
+      <webElementGuid>0ee45003-6759-4c10-ac3c-bd0ea63d0802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>e041c85b-a5ad-4bf8-9554-d3968b63dfd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' No records found ' or . = ' No records found ')]</value>
+      <webElementGuid>600b4bb2-c0de-4602-8c7e-f5ba38166e24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

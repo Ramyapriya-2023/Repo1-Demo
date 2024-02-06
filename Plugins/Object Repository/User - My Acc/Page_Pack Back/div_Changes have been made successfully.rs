@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Changes have been made successfully</name>
+   <tag></tag>
+   <elementGuidId>6008b272-c4d9-4be2-8751-0385b7c72d66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-container']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c56-1.toast-message.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c16ad60-325d-450f-a48d-d1559503bab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alertdialog</value>
+      <webElementGuid>ec062e39-4089-4303-8999-3dd4920f7db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>97125d84-4c28-417e-837a-ecf5a17081e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c56-1 toast-message ng-star-inserted</value>
+      <webElementGuid>4fb32bf7-34d1-4bc3-ac59-e3f2a1db2e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Changes have been made successfully</value>
+      <webElementGuid>4b65309c-31c0-49a9-9ea0-4e6b7d6fc2f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Changes have been made successfully </value>
+      <webElementGuid>9e67c5b9-ab9a-473a-970c-5213fe1a0cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-container&quot;)/div[@class=&quot;ng-tns-c56-1 ng-star-inserted ng-trigger ng-trigger-flyInOut ngx-toastr toast-success&quot;]/div[@class=&quot;ng-tns-c56-1 toast-message ng-star-inserted&quot;]</value>
+      <webElementGuid>5f2dc0d4-3d1c-4555-ae95-b23b61c44a28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-container']/div/div</value>
+      <webElementGuid>fa8558fb-90ac-4f3c-8b02-eb2c02113dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User to Impersonate'])[1]/following::div[9]</value>
+      <webElementGuid>d335b533-f53a-4548-82ff-54b53d14f347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logged in as'])[1]/following::div[11]</value>
+      <webElementGuid>13ae1bf1-82c5-428d-bef7-a5f3ce02e8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Changes have been made successfully']/parent::*</value>
+      <webElementGuid>ce9b1000-9cad-4c79-a71c-fcddfdfbdba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>d4e55952-c10b-4df6-bdff-ddb397191db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Changes have been made successfully ' or . = ' Changes have been made successfully ')]</value>
+      <webElementGuid>c111e237-f581-4bc1-a75d-536c95767188</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

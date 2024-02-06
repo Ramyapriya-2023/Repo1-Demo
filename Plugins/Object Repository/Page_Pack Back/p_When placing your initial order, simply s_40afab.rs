@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_When placing your initial order, simply s_40afab</name>
+   <tag></tag>
+   <elementGuidId>cec13071-f79d-4873-8be0-57e60c64ead5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='idBody']/ngb-modal-window/div/div/div/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5c56007d-e68a-4e8c-a50c-847e3cfb94f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>When placing your initial order, simply select the 'auto-replenishment' option and upon receipt of your materials for recycling, a new order will automatically be billed to your customer account or credit card and shipped to you.</value>
+      <webElementGuid>7af68556-49f1-43ad-b3ec-50aa79166110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idBody&quot;)/ngb-modal-window[@class=&quot;custom-toaster-modal d-block modal modal-dialog-centered fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered modal-xl&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;mt-42vh getlookuppopup&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row previewData ng-star-inserted&quot;]/p[1]</value>
+      <webElementGuid>37b96ec2-5677-400c-93d9-6ed2fd7a9b12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='idBody']/ngb-modal-window/div/div/div/div[2]/div[2]/p</value>
+      <webElementGuid>addcdffc-8023-4771-a5ba-0e2eac19dd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pack Back Offers Auto-Replenishment'])[1]/following::p[2]</value>
+      <webElementGuid>74933552-ac82-4a7a-acd5-f9b42e03987f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select User to Impersonate'])[1]/following::p[2]</value>
+      <webElementGuid>23964bef-352f-44bc-a2e3-3920d3682c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>1cc17601-a762-419d-ba60-ad1e9b39353f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;When placing your initial order, simply select the &quot; , &quot;'&quot; , &quot;auto-replenishment&quot; , &quot;'&quot; , &quot; option and upon receipt of your materials for recycling, a new order will automatically be billed to your customer account or credit card and shipped to you.&quot;) or . = concat(&quot;When placing your initial order, simply select the &quot; , &quot;'&quot; , &quot;auto-replenishment&quot; , &quot;'&quot; , &quot; option and upon receipt of your materials for recycling, a new order will automatically be billed to your customer account or credit card and shipped to you.&quot;))]</value>
+      <webElementGuid>09442a27-7af6-429b-9eca-9de820086e6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
